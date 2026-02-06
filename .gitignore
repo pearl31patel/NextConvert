@@ -4,3 +4,7 @@ __pycache__/
 dist/
 build/
 .vercel
+
+# generated files
+backend/uploads/
+backend/outputs/
